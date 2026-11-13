@@ -2,7 +2,7 @@
 
 This book demonstrates some key ideas in the interpretation and compilation of programming languages. It is a work in progress: chapters will be added showing how to implement a small Forth, a Lisp, a BASIC, a Z80 emulator, and a compiler targeting the emulator.
 
-It is supposed that the readers of this books will have programmed in at least one programming language, and that they know what a programming 
+It is supposed that the readers of this books will have programmed in at least one programming language, and that they therefore know what a programming language is and what it does. There are no other pre-requisites.
 
 ## Pipefish
 
