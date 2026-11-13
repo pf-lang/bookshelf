@@ -6,9 +6,9 @@ It is supposed that the readers of this books will have programmed in at least o
 
 ## Pipefish
 
-The implementation of the various programs is in Pipefish, which can be written like runnable pseudocode, and which can therefore be read by people who have never used any Pipefish. Any aspects of the syntax and/or semantics that need explaining will be pointed out as we go along, with links to the main Pipefish documentation, and will pretty much be covered before we've finished writing our first parser, because among its other merits Pipefish is also very small.
+The algorithms we'll be studying have been written in Pipefish, which can be written like runnable pseudocode, and which can therefore be read by people who have never used any Pipefish. Any aspects of the syntax and/or semantics that need explaining will be pointed out as we go along, with links to the main Pipefish documentation, and will pretty much be covered before we've finished writing our first parser, because among its other merits Pipefish is also very small.
 
-The code is runnable in your browser, because what good is "runnable pseudocode" unless you can run it? Here is an example of a Pipefish service with a TUI: you should find that the code is readable, and things like `greet "world"` and `5!` will do what you expect if you put them into the TUI.
+The code is runnable in your browser, because what good is "runnable pseudocode" unless you can actually run it? Here is an example of a Pipefish service with a TUI: you should find that the code is readable, and that expressions such as `greet "world"` and `5!` will do what you expect if you put them into the TUI.
 
 ```pf-ide
 cmd
