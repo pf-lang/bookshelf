@@ -2,6 +2,7 @@
 
 ## Introduction
 - Introduction
+- Terminology
 
 ## Six calculator implementations
 - A reverse Polish calculator
