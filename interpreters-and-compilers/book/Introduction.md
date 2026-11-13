@@ -19,9 +19,10 @@ greet(name string) :
 def
 
 (n int)! :
+    n < 0 :
+        error "can't take the factorial of a negative number"
     n == 0 :
         1
     else :
         n * (n - 1)!
-        
 ```
