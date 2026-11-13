@@ -26,3 +26,5 @@ def
     else :
         n * (n - 1)!
 ```
+
+You can learn more about the Pipefish project here.
